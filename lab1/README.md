@@ -21,25 +21,53 @@ There are three thing to learn in this chapter.
 - #include Directive
 
 -----
-# C like a recipe
-C program code is like a recipe.
-In recipe, there are sevral ingredients for cooking.
-And written how to handle ingredients which prepared.
-Finally, there is the result.
 
-The difference between recipe and C code is only we can eat result of recipe, but code can't
+# C like a recipe
+C program code is like a recipe. 
+
+In recipe, there are sevral ingredients for cooking. <br>
+And written how to handle ingredients which prepared. <br>
+Finally, there is the result. 
+
+The difference between recipe and C code is only that we can eat result of recipe, but C code can't
 
 ## Variable
-Variable in code like a ingredients in recipe.
+Variable in code like a ingredients in recipe. <br>
+It can be changed. We can input something to variable, display value of variable.
+
+In C and many other programming language, there a type of variable. <br>
+As a tool for the material, the way to handle is all different. <br>
+
+Introduce several types of variable.
+
+- int
+- float
+- char
+
+It was distinguished by size of variable in memory. <br>
+*Story about memory is a little difficult. so described later.*
+
+**int** for variable which contain integer value.<br>
+**float** for variable which contain real number.<br>
+**char** for variable which contain a charater.<br>
+
+some example using variable type.
+```
+int a = 3;
+float b = 1.2f;
+char c = 'A';
+```
+> [variable.c](https://github.com/MaybeS/STUDY2016/blob/master/lab1/variable.c)
 
 ## function
 The structure of function like this.
 ```
-return_type function_name(arg_type arg_name, ...)
+[return_type] [function_name]([arg_type] [arg_name], ...)
 {
     /*codes*/
 }
 ```
+> [function.c](https://github.com/MaybeS/STUDY2016/blob/master/lab1/function.c)
 
 ## #include Directive
 
