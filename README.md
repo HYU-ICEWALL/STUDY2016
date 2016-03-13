@@ -10,3 +10,7 @@ First of all, will learn programming language.
 - Python
 
 while learning, we can think about some of data structer, algorithm.
+
+## List of Lab
+0. Installation
+1. To get close with Programming
