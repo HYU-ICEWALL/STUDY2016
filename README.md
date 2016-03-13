@@ -6,7 +6,7 @@ This repository for study in ICEWALL.
 but, anyone can see.
 
 First of all, will learn programming language.
-- C (a little bit of C++)
+- C (with a little bit of C++)
 - Python
 
 while learning, we can think about some of data structer, algorithm.
