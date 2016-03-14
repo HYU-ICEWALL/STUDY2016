@@ -12,7 +12,7 @@ int main(int argc, char * argv[])
     return 0;
 }
 ```
-> [Hello, world.c](https://github.com/MaybeS/STUDY2016/blob/master/lab1/code/Hello, world.c)
+> [Hello, world.c](https://github.com/MaybeS/STUDY2016/blob/master/Lab1/code/Hello, world.c)
 
 There are three thing to learn in this chapter.
 
@@ -57,7 +57,7 @@ int a = 3;
 float b = 1.2f;
 char c = 'A';
 ```
-> [variable.c](https://github.com/MaybeS/STUDY2016/blob/master/lab1/code/variable.c)
+> [variable.c](https://github.com/MaybeS/STUDY2016/blob/master/Lab1/code/variable.c)
 
 ## Function
 Function in code like a sub recipe for recipe.
@@ -77,7 +77,7 @@ The return type of main is **int**, so at last main return 0 that integer value.
 Now you can make simple function add two integer, return addition of integers. <br>
 
 some example using function.
-> [function.c](https://github.com/MaybeS/STUDY2016/blob/master/lab1/code/function.c)
+> [function.c](https://github.com/MaybeS/STUDY2016/blob/master/Lab1/code/function.c)
 
 In sample code, you can find out something difference. <br>
 The mul function is written twice. over and under the main function that mul function is used. <br>
