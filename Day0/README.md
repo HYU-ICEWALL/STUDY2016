@@ -38,7 +38,7 @@ int main(int argc, char * argv[])
     return 0;
 }
 ```
->[Hello.c]()
+>[Hello.c](https://github.com/MaybeS/STUDY2016/blob/master/Day0/example/Hello.c)
 
 사실 이 예제 코드는 생각보다 복잡한 구성을 가지고 있고, 한번에 전부 배우는건 꽤 어려운 일이에요.
 그래서 우리는 오늘 main 함수가 무슨일을 하는지, 프로그램은 어떻게 호출하는지 간단하게 알아볼거에요.
@@ -69,6 +69,7 @@ printf("Hello, world!\n"); 부분을 printf("%d\n", argc);로 바꾸고 컴파�
 이번에는 a와 x,y,z들을 출력해봅시다.
 
 printf부분을 printf("%s\n", argv[0]);으로 바꾸면 
+>[argc.c](https://github.com/MaybeS/STUDY2016/blob/master/Day0/example/argc.c)
 
 a가 출력되고 여기에서 다시 [0]을 [1]로 바꾸면 x가, [2]로는 y가 [3]은 z가 출력될꺼에요.
 
@@ -86,6 +87,7 @@ int main(int argc, char * argv[])
     return 0;
 }
 ```
+>[argv.c](https://github.com/MaybeS/STUDY2016/blob/master/Day0/example/argv.c)
 코드를 이렇게 고치면 모든 인자를 출력하도록 바뀔 꺼에요. 컴파일후 실행해 봅시다.
 
 아직은 for나 printf, %s가 무엇을 의미하는지 몰라도 되요.

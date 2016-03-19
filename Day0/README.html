@@ -1062,7 +1062,7 @@ int main(int argc, char * argv[])
 </code></pre>
 
 <blockquote>
-<p><a href="">Hello.c</a></p>
+<p><a href="https://github.com/MaybeS/STUDY2016/blob/master/Day0/example/Hello.c">Hello.c</a></p>
 </blockquote>
 <p>사실 이 예제 코드는 생각보다 복잡한 구성을 가지고 있고, 한번에 전부 배우는건 꽤 어려운 일이에요.<br />
 그래서 우리는 오늘 main 함수가 무슨일을 하는지, 프로그램은 어떻게 호출하는지 간단하게 알아볼거에요.</p>
@@ -1088,10 +1088,13 @@ int main(int argc, char * argv[])
 <p>이러면 4가 출력될꺼에요. x y z를 다른 문자들로 바꾸면서 실행해보면, 출력되는 숫자가 입력된 단어 수 라는것을 알 수 있어요.</p>
 <p>이번에는 a와 x,y,z들을 출력해봅시다.</p>
 <p>printf부분을 printf(&ldquo;%s\n&rdquo;, argv[0]);으로 바꾸면 </p>
+<blockquote>
+<p><a href="https://github.com/MaybeS/STUDY2016/blob/master/Day0/example/argc.c">argc.c</a></p>
+</blockquote>
 <p>a가 출력되고 여기에서 다시 [0]을 [1]로 바꾸면 x가, [2]로는 y가 [3]은 z가 출력될꺼에요.</p>
 <p>근데 이렇게 하면 인자를 다르게 받고싶을 때마다 새로 프로그램을 짜야 하잖아요.<br />
 그래서 모든 argv를 출력해주는 프로그램을 만들어봐요.</p>
-<p><pre><code>#inlucde &lt;stdio.h&gt;
+<pre><code>#inlucde &lt;stdio.h&gt;
 int main(int argc, char * argv[])
 {
     for (int i = 0; i &lt; argc; i++)
@@ -1100,8 +1103,12 @@ int main(int argc, char * argv[])
     }
     return 0;
 }
-</code></pre><br />
+</code></pre>
+
+<blockquote>
+<p><a href="https://github.com/MaybeS/STUDY2016/blob/master/Day0/example/argv.c">argv.c</a><br />
 코드를 이렇게 고치면 모든 인자를 출력하도록 바뀔 꺼에요. 컴파일후 실행해 봅시다.</p>
+</blockquote>
 <p>아직은 for나 printf, %s가 무엇을 의미하는지 몰라도 되요.</p>
 <p>for 의 괄호 안에 있는 문장은 여러번 반복될 수 있구나, printf는 출력을 하는구나 정도의 느낌만 오면 되요.</p>
 <p><strong>Day1에서 다시봐요</strong></p></article></body></html>
