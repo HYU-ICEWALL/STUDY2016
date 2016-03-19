@@ -12,6 +12,10 @@ First of all, will learn programming language.
 
 while learning, we can think about some of data structer, algorithm.
 
+### kor documents
+- 신입생을 위한 개발환경 구축을 위한 안내서.pdf
+- 명령어 도움말.pdf
+
 ## List of Lab - C
 <ol start="0">
     <li>Installation</li>
