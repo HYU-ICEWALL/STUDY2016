@@ -85,7 +85,7 @@ for(int i = 0 ; i < 5; i++)
 아무래도 i가 0부터 시작하니까 0번째 줄에는 0개를 출력한거같아요.
 따라서 j<i+1로 해주면 잘나오겠죠?
 
->[stars.txt](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/stars.txt)
+>[stars.txt](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/stars.txt) <br>
 >[stars.c](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/stars.c)
 
 stars.txt에있는 별모양들을 한번씩 찍어보고
