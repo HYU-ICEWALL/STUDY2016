@@ -12,14 +12,11 @@ First of all, will learn programming language.
 
 while learning, we can think about some of data structer, algorithm.
 
-## List of Lab - C
-<ol start="0">
-    <li>Installation</li>
-    <li>To get close with C</li>
-</ol>
+### kor documents (doc\)
+- 신입생을 위한 개발환경 구축을 위한 안내서.pdf
+- 명령어 도움말.pdf
 
-## List of Lab - Python
-<ol start="0">
-    <li>Installation</li>
-    <li>To get close with Python</li>
-</ol>
+## List of Lab - C
+- Day0: 설치
+- Day1: 자료형
+- Day2:
