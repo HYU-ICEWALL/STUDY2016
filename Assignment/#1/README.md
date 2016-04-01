@@ -5,9 +5,9 @@
 
 ## [1번: 문자열 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/1.md)
 
-## [2번: 파일 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/1.md)
+## [2번: 파일 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/2.md)
 
-## [3번: 계산기](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/1.md)
+## [3번: 계산기](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/3.md)
 
 ## 예제
 - [문자열 처리에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/example/string.c)
