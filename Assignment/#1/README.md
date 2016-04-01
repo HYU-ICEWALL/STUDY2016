@@ -15,4 +15,4 @@
 - [파일 출력에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/example/fileWrite.c)
 - [if에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/if.c)
 - [for에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/for.c)
-- [for에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/while.c)
+- [while에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/while.c)
