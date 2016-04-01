@@ -1014,20 +1014,52 @@ body .markdown-body
     page-break-after: avoid;
   }
 }
-</style><title>1</title></head><body><article class="markdown-body"><h1 id="1"><a name="user-content-1" href="#1" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>1번: 문자열 처리</h1>
-<p>이름과 생년월일, 각종 개인정보를 입력받아서 자기소개를 하는 프로그램을 출력해봅시다.</p>
-<p><strong>입력값:</strong><br></p>
+</style><title>3</title></head><body><article class="markdown-body"><h1 id="3"><a name="user-content-3" href="#3" class="headeranchor-link" aria-hidden="true"><span class="headeranchor"></span></a>3번: 계산기</h1>
+<p>간단한 계산기를 만들어 봅시다.<br />
+기능은 아래와 같습니다.</p>
+<ol>
+<li>
+<p>사용자에게 명령을 입력받습니다.</p>
+<ul>
+<li>명령에는 +-*/같은 기호를 받을 수 있습니다.</li>
+<li>명령에 기호가 아닌 다른 값이 들어오면 프로그램을 종료합니다.</li>
+</ul>
+</li>
+<li>
+<p>+-*/같은 명령이 들어왔다면</p>
+<ul>
+<li>숫자 두개를 추가로 받습니다.</li>
+<li>이 숫자 두개를 주어진 기호로 연산합니다.</li>
+<li>calc.log 파일을 생성해 그곳에 입력된 숫자와 기호, 그리고 결과를 저장합니다.</li>
+</ul>
+</li>
+<li>
+<p>명령이 끝나면 다시 1번으로 돌아가야합니다.</p>
+<ul>
+<li>이 반복은 1.2의 조건으로만 끝날 수 있습니다.</li>
+</ul>
+</li>
+</ol>
+<p><strong>입력 예시:</strong><br></p>
 <blockquote>
-<p>배지운<br><br />
-950623<br></p>
+<p>+<br><br />
+2 3<br><br />
+-<br><br />
+10 5<br><br />
+*<br><br />
+3 5<br><br />
+Q<br></p>
 </blockquote>
-<p><strong>출력값:</strong><br></p>
+<p><strong>출력 예시:</strong><br></p>
 <blockquote>
-<p>이름은 배지운이고<br><br />
-95년 06월 23일 생입니다.<br></p>
+<p>5                     // 2+3의 결과<br><br />
+5                     // 10-5의 결과<br><br />
+15                    // 3*5의 결과<br></p>
 </blockquote>
-<p>굳이 같은 형식일 필요는 없으며 다양한 정보를 추가로 입력받아서 출력해보아요.<br><br />
-문제열 처리에 관한 예제를 참조하면 더 쉽게 할 수 있을꺼에요.</p>
+<p><strong>파일 출력 예시:</strong><br></p>
 <blockquote>
-<p><a href="https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/example/string.c">string.c</a></p>
+<p>2 + 3 = 5<br><br />
+10 - 5 = 5<br><br />
+3 * 5 = 15<br><br />
+Q가 입력되어 종료됨.<br></p>
 </blockquote></article></body></html>
