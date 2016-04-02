@@ -3,16 +3,16 @@
 
 잘 모르는 내용은 제일 아래의 예제를 참조하면 도움이 될 거에요.
 
-## [1번: 문자열 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/1.md)
+## [1번: 문자열 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/1.md)
 
-## [2번: 파일 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/2.md)
+## [2번: 파일 처리](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/2.md)
 
-## [3번: 계산기](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/3.md)
+## [3번: 계산기](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/3.md)
 
 ## 예제
-- [문자열 처리에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/example/string.c)
-- [파일 입력에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/example/fileRead.c)
-- [파일 출력에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/#1/example/fileWrite.c)
+- [문자열 처리에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/example/string.c)
+- [파일 입력에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/example/fileRead.c)
+- [파일 출력에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Assignment/%231/example/fileWrite.c)
 - [if에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/if.c)
 - [for에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/for.c)
-- [for에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/while.c)
+- [while에 관한 예제](https://github.com/MaybeS/STUDY2016/blob/master/Day2/example/while.c)
